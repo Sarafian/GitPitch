@@ -1,19 +1,14 @@
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 ---
-
-
-Hello!
+1
 
 +++
 
-Hola!
+2
 
 ---
 
-![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
-
-Goodbye!
+3
 
 +++
 
-Adiós!
+4
